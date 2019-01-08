@@ -1,0 +1,18 @@
+{
+  "name": "nuxt-4626",
+  "version": "1.0.0",
+  "description": "Repro for https://github.com/nuxt/nuxt.js/issues/4626",
+  "author": "Atinux",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt-edge": "latest",
+    "@nuxtjs/axios": "^5.0.0"
+  },
+  "keywords": []
+}
